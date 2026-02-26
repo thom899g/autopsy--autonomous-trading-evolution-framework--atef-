@@ -1,0 +1,2 @@
+# autopsy--autonomous-trading-evolution-framework--atef-
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'Autonomous Trading Evolution Framework (ATEF)' FAILED.MASTER REFLECTION: Worker completed 'Autonomous Trading Evolution Framework (ATEF)'.ORIGINAL ERROR LOGS:(**config_dict['strategy'])                # Load risk config        if 'risk' in config_dict:            self.risk_config = RiskConfig(**config_dict
